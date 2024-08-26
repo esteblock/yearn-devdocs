@@ -25,7 +25,7 @@ To deploy your vault, simply find the factory's address for the most recent rele
 The needed parameters are:
 
 - **asset**: The address of an ERC-20 compliant token used as the underlying asset to earn yield for the vault.
-- **name**: The name for your vault that will apply to the token issues to depositors.
+- **name**: The name for your vault that will apply to the token issued to depositors.
 - **symbol**: The symbol the token issued to depositors will use.
 - **role_manager**: The address in charge of giving permissions to other addresses which allow access to certain permissioned functions.
 - **profit_max_unlock_time**: In seconds, profits reported from strategies will be unlocked.
